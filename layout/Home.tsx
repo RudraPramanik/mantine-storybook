@@ -1,6 +1,7 @@
 import { useState, useEffect, useCallback } from 'react';
 import ImageList from '@/components/ImageList';
-import Header from './Header';
+// import Header from './Header';
+import Header from '@/stories/Header';
 
 const url = 'https://api.unsplash.com/search/photos';
 
